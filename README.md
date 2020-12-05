@@ -22,7 +22,7 @@
 - [Speaker Decks](#speaker-decks)
 - [Books](#books)
 - [UI UX schools](#ui-ux-schools)
-- [Product designers and UI UX designers to follow](#product-designers-and-ui-ux designers-to-follow)
+- [Product designers and UI UX designers to follow](#product-designers-and-ui-ux-designers-to-follow)
 - [Podcasts](#podcasts)
 
 ## Community
@@ -30,7 +30,7 @@
 * [UX Design Hangout](https://designerhangout.co?mwr=3a1f1519/)
 * [Figma Africa](https://foflagos.slack.com/)
 * [UX Guide](https://ux.guide/)
-* [Interaction Design Foundation](https://www.interaction-design.org/career)(Paid)
+* [Interaction Design Foundation](https://www.interaction-design.org/career) (Paid)
 
 
 ## Design tools
@@ -89,8 +89,8 @@ Showcase your work:
 * [UI Jar](https://uijar.com/)
 
 ## Videos
-* [Bulding Amazing Things](https://www.youtube.com/channel/UCbVPTU8fv7e0EjGeQFbIsJA)(Youtube Channel)
-* [The Futur](https://www.youtube.com/user/TheSkoolRocks)(Youtube Channel)
+* [Bulding Amazing Things](https://www.youtube.com/channel/UCbVPTU8fv7e0EjGeQFbIsJA) (Youtube Channel)
+* [The Futur](https://www.youtube.com/user/TheSkoolRocks) (Youtube Channel)
 
 
 ## Product designers and UI UX designers to follow
