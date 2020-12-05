@@ -98,7 +98,7 @@ Showcase your work:
 |-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Chris Do   |https://thefutur.com/team/chris-do               | CEO, TheFutur | [@theChrisDo](https://twitter.com/theChrisDo)     |
 | Namnso Ukpanah    | https://www.linkedin.com/in/namnsoukpanah/        | Figma Africa (Community lead) | [@namnsoukpanah](https://twitter.com/namnsoukpanah)     |
-| Buhari Jemil   |http://buhari-jemilu.com/                | Jupita Design Community (lead) | [@buhari_x](https://twitter.com/buhari_x)    |
+| Buhari Jemilu   |http://buhari-jemilu.com/                | Jupita Design Community (lead) | [@buhari_x](https://twitter.com/buhari_x)    |
 
 
 ## Contributing
