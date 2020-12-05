@@ -4,7 +4,7 @@
 
 > The “UI” in UI design stands for “user interface.” The user interface is the graphical layout of an application, while the “UX” stands for “user experience.” A user’s experience of the app is determined by how they interact with it. ~ [UX Planet](https://uxplanet.org/what-is-ui-vs-ux-design-and-the-difference-d9113f6612de)
 
-*List inspired by [Buhari Jemilu'si's](https://www.linkedin.com/in/jemilu-buhari/) Jupiter Design Community.
+*List inspired by [Buhari Jemilu's](https://www.linkedin.com/in/jemilu-buhari/) Jupiter Design Community.
 
 ## Table of Contents
 - [Community](#community)
