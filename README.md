@@ -10,18 +10,21 @@
 - [Community](#community)
 - [Design Tools](#design-tools)
 - [Resources](#resources)
+- [Case Studies/Portfolios](#case-studies-portfolios]
+- [Design Laws/Principles](#design-laws-principles]
+- [UI/UX programs to follow](#ui-ux-designs-to-follow]
+- [UI/UX blogs to Follow](#ui-ux-blogs-to-follow)
+
+
 - [Courses](#courses)
-
 - [Videos](#videos)
-
 - [Conferences](#conferences)
 - [Speaker Decks](#speaker-decks)
 - [Books](#books)
-- [Templates](#templates)
 - [UI/UX blogs to Follow](#ui-ux-blogs-to-follow)
 - [UI/UX schools](#UI-UX-schools)
-- [Major UI/UX programsto Follow](#major-apm-programs-to-follow)
-- [UI/UX designers to follow](#product-managers-to-follow)
+- [UI/UX programs to Follow](#ui-ux-programs-to-follow)
+- [UI/UX designers to follow](#ui-ux designers-to-follow)
 - [Podcasts](#podcasts)
 
 ## Community
@@ -33,6 +36,15 @@ Fonts:
 
 Colors:
 
+Build your portfolio:
+* [Semplice](https://www.semplice.com/)
+* [Carbon made](https://carbonmade.com/)
+* [Dunked](https://dunked.com/)
+* [Uxfolio](https://www.uxfol.io/)
+
+
+## Design tools
+
 ## Resources
 * [Alpha design resource](https://www.designresourc.es/)
 
@@ -41,12 +53,13 @@ Colors:
 * [Mosope_Adebowale's_Healthwise_CaseStudy](mosopeadebowale.com/wp-content/uploads/2019/09/Mosope_Adebowale_Healthwise_CaseStudy.pdf)
 
 ## Design Laws/Principles
-* [Alpha design resource](https://www.designresourc.es/)
 * [Design principles](https://principles.design/)
 * [Laws of UX](https://lawsofux.com)
 * [UX design Principles]
 
+## UI/UX programs to follow
+* [100 days of UI](https://www.dailyui.co/)
+* [UI/UX Female Bootcamp](http://howican.tech/)
 
-https://www.dailyui.co/
 
 To be updated soon!
