@@ -68,7 +68,7 @@ Showcase your work:
 ## Design Laws and Principles
 * [Design principles](https://principles.design/)
 * [Laws of UX](https://lawsofux.com)
-* [UX design Principles]
+* [UX design Principles](https://99designs.com/blog/web-digital/ux-design-principles/)
 
 ## UI UX programs to follow
 * [100 days of UI](https://www.dailyui.co/)
