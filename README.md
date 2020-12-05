@@ -10,10 +10,10 @@
 - [Community](#community)
 - [Design Tools](#design-tools)
 - [Resources](#resources)
-- [Case Studies/Portfolios](#case-studies-portfolios)
-- [Design Laws/Principles](#design-laws-principles)
-- [UI/UX programs to follow](#ui-ux-programs-to-follow)
-- [UI/UX blogs to Follow](#ui-ux-blogs-to-follow)
+- [Case Studies and Portfolios](#case-studies-and-portfolios)
+- [Design Laws and Principles](#design-laws-and-principles)
+- [UI UX programs to follow](#ui-ux-programs-to-follow)
+- [UI UX blogs to Follow](#ui-ux-blogs-to-follow)
 - [Design inspiration](#design-inspiration)
 
 - [Courses](#courses)
@@ -21,8 +21,8 @@
 - [Conferences](#conferences)
 - [Speaker Decks](#speaker-decks)
 - [Books](#books)
-- [UI/UX schools](#UI-UX-schools)
-- [Product designer/ UI/UX designers to follow](#product-designer-ui-ux designers-to-follow)
+- [UI UX schools](#ui-ux-schools)
+- [Product designers and UI UX designers to follow](#product-designers-and-ui-ux designers-to-follow)
 - [Podcasts](#podcasts)
 
 ## Community
@@ -65,16 +65,16 @@ Showcase your work:
 * [Mosope_Adebowale's_Healthwise_CaseStudy](mosopeadebowale.com/wp-content/uploads/2019/09/Mosope_Adebowale_Healthwise_CaseStudy.pdf)
 * [Buhari Jemil's portfolio](http://buhari-jemilu.com/)
 
-## Design Laws/Principles
+## Design Laws and Principles
 * [Design principles](https://principles.design/)
 * [Laws of UX](https://lawsofux.com)
 * [UX design Principles]
 
-## UI/UX programs to follow
+## UI UX programs to follow
 * [100 days of UI](https://www.dailyui.co/)
 * [UI/UX Female Bootcamp](http://howican.tech/)
 
-## UI/UX blogs to Follow
+## UI UX blogs to Follow
 * [Career Foundry](https://careerfoundry.com/en/blog/ux-design/)
 * [UX Planet](https://uxplanet.org/)
 * [The Nielsen Norman Group](https://www.nngroup.com/articles/)
@@ -93,7 +93,7 @@ Showcase your work:
 * [The Futur](https://www.youtube.com/user/TheSkoolRocks)(Youtube Channel)
 
 
-## Product designers/ UI/UX designers to follow
+## Product designers and UI UX designers to follow
 | Name              | Link to Blog/Content profile                                                     | Niche                       | Link to Twitter                                       |
 |-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Chris Do   |https://thefutur.com/team/chris-do               | CEO, TheFutur | [@theChrisDo](https://twitter.com/theChrisDo)     |
