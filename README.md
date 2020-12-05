@@ -10,9 +10,9 @@
 - [Community](#community)
 - [Design Tools](#design-tools)
 - [Resources](#resources)
-- [Case Studies/Portfolios](#case-studies-portfolios]
-- [Design Laws/Principles](#design-laws-principles]
-- [UI/UX programs to follow](#ui-ux-designs-to-follow]
+- [Case Studies/Portfolios](#case-studies-portfolios)
+- [Design Laws/Principles](#design-laws-principles)
+- [UI/UX programs to follow](#ui-ux-designs-to-follow)
 - [UI/UX blogs to Follow](#ui-ux-blogs-to-follow)
 
 
@@ -41,9 +41,6 @@ Build your portfolio:
 * [Carbon made](https://carbonmade.com/)
 * [Dunked](https://dunked.com/)
 * [Uxfolio](https://www.uxfol.io/)
-
-
-## Design tools
 
 ## Resources
 * [Alpha design resource](https://www.designresourc.es/)
