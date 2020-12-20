@@ -62,7 +62,7 @@ Showcase your work:
 
 ## Case Studies/Portfolios
 * [Case study club](https://www.casestudy.club/case-studies/quill-app-case-study)
-* [Mosope_Adebowale's_Healthwise_CaseStudy](mosopeadebowale.com/wp-content/uploads/2019/09/Mosope_Adebowale_Healthwise_CaseStudy.pdf)
+* [Mosope_Adebowale's_Healthwise_CaseStudy](https://mosopeadebowale.com/wp-content/uploads/2019/09/Mosope_Adebowale_Healthwise_CaseStudy.pdf)
 * [Buhari Jemil's portfolio](http://buhari-jemilu.com/)
 
 ## Design Laws and Principles
