@@ -64,11 +64,20 @@ Showcase your work:
 * [Case study club](https://www.casestudy.club/case-studies/quill-app-case-study)
 * [Mosope_Adebowale's_Healthwise_CaseStudy](https://mosopeadebowale.com/wp-content/uploads/2019/09/Mosope_Adebowale_Healthwise_CaseStudy.pdf)
 * [Buhari Jemil's portfolio](http://buhari-jemilu.com/)
+* [Google Mentor Design Case Study](https://www.behance.net/gallery/90958309/Google-Mentor-Design-Case-Study)
+* [Money Transfer Case Study](https://www.behance.net/gallery/95491533/Money-transfer-A-Better-Way-to-Handle-Your-Money)
+* [Medical Design Case Study](https://www.behance.net/gallery/91410737/Medico-Online-Medical-Services-Case-Study)
+
+* [Full Website Design 1](https://www.behance.net/gallery/95636783/Enclave-Online-Dating-App)
+
+
+
 
 ## Design Laws and Principles
 * [Design principles](https://principles.design/)
 * [Laws of UX](https://lawsofux.com)
 * [UX design Principles](https://99designs.com/blog/web-digital/ux-design-principles/)
+* [User Experience](https://www.nickkolenda.com/user-experience/)
 
 ## UI UX programs to follow
 * [100 days of UI](https://www.dailyui.co/)
@@ -82,6 +91,7 @@ Showcase your work:
 * [Prototypr](https://blog.prototypr.io/)
 * [Muzli blog](https://medium.muz.li/)
 * [Sitepoint](https://www.sitepoint.com/design-ux/)
+* [Ux Pin](https://www.uxpin.com/studio/blog/guide-design-consistency-best-practices-ui-ux-designers/)
 
 
 ## Design inspiration
