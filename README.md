@@ -60,6 +60,7 @@ Showcase your work:
 * [Alpha design resource 2](https://medium.com/@calderaricaio/growing-list-of-design-resources-67c72a5d4f56)
 * [Alpha design resource 3](https://www.notion.so/Design-Resources-0e19f815785245ac9cf6a50355f2cb10)
 * [Material.io](http://material.io/)
+* [How to design a graph](https://www.youtube.com/watch?v=eVy36sR29g4)
 
 ## Case Studies/Portfolios
 * [Case study club](https://www.casestudy.club/case-studies/quill-app-case-study)
