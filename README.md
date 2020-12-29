@@ -61,6 +61,7 @@ Showcase your work:
 * [Alpha design resource 3](https://www.notion.so/Design-Resources-0e19f815785245ac9cf6a50355f2cb10)
 * [Material.io](http://material.io/)
 * [How to design a graph](https://www.youtube.com/watch?v=eVy36sR29g4)
+* [Complete list of UX deliverables](https://uxplanet.org/a-complete-list-of-ux-deliverables-d62ccf1de434)
 
 ## Case Studies/Portfolios
 * [Case study club](https://www.casestudy.club/case-studies/quill-app-case-study)
