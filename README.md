@@ -64,6 +64,7 @@ Showcase your work:
 * [How to design a graph](https://www.youtube.com/watch?v=eVy36sR29g4)
 * [Complete list of UX deliverables](https://uxplanet.org/a-complete-list-of-ux-deliverables-d62ccf1de434)
 * [UI Design Process](https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241)
+* [How to create an Empathy Map](https://www.nngroup.com/articles/empathy-mapping/)
 
 ## Case Studies/Portfolios
 * [Case study club](https://www.casestudy.club/case-studies/quill-app-case-study)
