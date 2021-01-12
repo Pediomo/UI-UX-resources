@@ -74,16 +74,15 @@ Showcase your work:
 * [Money Transfer Case Study](https://www.behance.net/gallery/95491533/Money-transfer-A-Better-Way-to-Handle-Your-Money)
 * [Medical Design Case Study](https://www.behance.net/gallery/91410737/Medico-Online-Medical-Services-Case-Study)
 * [Designing an Application for Saving & Investment — A UX Case Study](https://dedamioloketuyi.medium.com/designing-an-application-for-saving-investment-tailored-to-millenials-a-ux-case-study-b83403648932)
-*
+* [UX Portfolio Case Study template (plus examples from successful hires)](https://uxplanet.org/ux-portfolio-case-study-template-plus-examples-from-successful-hires-86d5b0faa2d6)
+* [Case study: Designing an in-app messaging feature](https://medium.com/design-bootcamp/a-ux-case-study-on-carbon-an-in-app-messaging-feature-7b5c819982aa)
+* [Case study: Designing an Online Marketplace: Sellfast](https://medium.com/design-bootcamp/ui-ux-case-study-sellfast-2537fcb05872)
+
 
 * [Full Website Design 1](https://www.behance.net/gallery/95636783/Enclave-Online-Dating-App)
 
 * BONUS >>> [GET MENTORSHIP](https://adplist.org/mentors)
-
 * [Case study template](https://uxdesign.cc/case-study-template-8832941a9d1b?source=bookmarks---------5----------------------------)
-* [UX Portfolio Case Study template (plus examples from successful hires)](https://uxplanet.org/ux-portfolio-case-study-template-plus-examples-from-successful-hires-86d5b0faa2d6)
-* [Case study: Designing an in-app messaging feature](https://medium.com/design-bootcamp/a-ux-case-study-on-carbon-an-in-app-messaging-feature-7b5c819982aa)
-* [Case study: Designing an Online Marketplace: Sellfast](https://medium.com/design-bootcamp/ui-ux-case-study-sellfast-2537fcb05872)
 
 
 
