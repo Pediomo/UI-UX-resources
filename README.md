@@ -95,6 +95,7 @@ Showcase your work:
 ## UI UX programs to follow
 * [100 days of UI](https://www.dailyui.co/)
 * [UI/UX Female Bootcamp](http://howican.tech/)
+* [UX/ Product Design Internship Opportunities](https://interns.design/)
 
 ## UI UX blogs to Follow
 * [Career Foundry](https://careerfoundry.com/en/blog/ux-design/)
