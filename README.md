@@ -41,8 +41,8 @@ Fonts:
 
 Colors:
 
-* Contrast checker: []
-* Colur picker: [Chrome Extenion](
+* Contrast checker: [WebAim](https://webaim.org/resources/contrastchecker/)
+* Colour picker: [Chrome Extenion](
 https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en)
 * Colour palletes: [Colour Hunt](https://colorhunt.co/)
 * Colour pallete generator: [Muzli](https://colors.muz.li/)
@@ -101,7 +101,7 @@ Showcase your work:
 * [User Experience](https://www.nickkolenda.com/user-experience/)
 
 ## UI UX programs to follow
-* [100 days of UI](https://www.dailyui.co/)
+* [100 days of UI](https://www.dailyui.co/) — (You can also generate tasks from: [Sharpen](https://sharpen.design/))
 * [UI/UX Female Bootcamp](http://howican.tech/)
 * [UX/ Product Design Internship Opportunities](https://interns.design/)
 
