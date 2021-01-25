@@ -96,7 +96,7 @@ Showcase your work:
 
 ## Design Laws and Principles
 * [Design principles](https://principles.design/)
-* [Laws of UX](https://lawsofux.com). You can also check this [article](https://medium.com/swlh/ux-laws-with-practical-examples-c418b4738d20) for examples of how the laws apply.Like to watch a video of the laws of UX instead? [Here](https://www.youtube.com/watch?v=fYs2Mdyasuc) you go!
+* [Laws of UX](https://lawsofux.com). You can also check this [article](https://medium.com/swlh/ux-laws-with-practical-examples-c418b4738d20) for examples of how the laws apply. Like to watch a video of the laws of UX instead? [Click here](https://www.youtube.com/watch?v=fYs2Mdyasuc).
 
 * [UX design Principles](https://99designs.com/blog/web-digital/ux-design-principles/)
 * [User Experience](https://www.nickkolenda.com/user-experience/)
