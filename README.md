@@ -41,6 +41,12 @@ Fonts:
 
 Colors:
 
+* Contrast checker: []
+* Colur picker: [Chrome Extenion](
+https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en)
+* Colour palletes: [Colour Hunt](https://colorhunt.co/)
+* Colour pallete generator: [Muzli](https://colors.muz.li/)
+
 Illustrations:
 * [Undraw](undraw.co)
 * [Storyset](https://storyset.com/)
