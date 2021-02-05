@@ -79,6 +79,7 @@ Showcase your work:
 * [Complete list of UX deliverables](https://uxplanet.org/a-complete-list-of-ux-deliverables-d62ccf1de434)
 * [UI Design Process](https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241)
 * [How to create an Empathy Map](https://www.nngroup.com/articles/empathy-mapping/)
+* [Treford Resource Pack 1](https://docs.google.com/document/d/1RLv5XBRUo42xLMkcQQAw51mWP7jcsyg4ivwNPbNwLdE/edit)
 
 ## Case Studies/Portfolios
 * [Case study club](https://www.casestudy.club/case-studies/quill-app-case-study)
