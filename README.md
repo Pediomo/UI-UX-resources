@@ -39,6 +39,8 @@
 
 Fonts:
 
+* [Google Fonts](https://fonts.google.com/)
+
 Colors:
 
 * Contrast checker: [WebAim](https://webaim.org/resources/contrastchecker/)
@@ -46,11 +48,16 @@ Colors:
 https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en)
 * Colour palletes: [Colour Hunt](https://colorhunt.co/)
 * Colour pallete generator: [Muzli](https://colors.muz.li/)
+* [Coolors](coolors.co)
 
 Illustrations:
 * [Undraw](undraw.co)
 * [Storyset](https://storyset.com/)
 * [Drawkit](https://www.drawkit.io/)
+* [Ouch!](https://icons8.com/illustrations)
+
+Blob Maker:
+* [Blob Maker](https://www.blobmaker.app/)
 
 Usability tests:
 * [UXCAM](https://uxcam.com/)
@@ -75,11 +82,14 @@ Showcase your work:
 * [Alpha design resource 2](https://medium.com/@calderaricaio/growing-list-of-design-resources-67c72a5d4f56)
 * [Alpha design resource 3](https://www.notion.so/Design-Resources-0e19f815785245ac9cf6a50355f2cb10)
 * [Material.io](http://material.io/)
+* [Design System Checklist](https://designsystemchecklist.com/)
 * [How to design a graph](https://www.youtube.com/watch?v=eVy36sR29g4)
 * [Complete list of UX deliverables](https://uxplanet.org/a-complete-list-of-ux-deliverables-d62ccf1de434)
 * [UI Design Process](https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241)
 * [How to create an Empathy Map](https://www.nngroup.com/articles/empathy-mapping/)
 * [Treford Resource Pack 1](https://docs.google.com/document/d/1RLv5XBRUo42xLMkcQQAw51mWP7jcsyg4ivwNPbNwLdE/edit)
+* [How to create a mockup for your design on photoshop](https://www.loom.com/share/305be6c1da5c4d2b9a9737a751e0a4d5)
+* [How to develop an effective multi-device UX strategy](https://xd.adobe.com/ideas/principles/web-design/ux-design-strategy-for-multiple-devices/)
 
 ## Case Studies/Portfolios
 * [Case study club](https://www.casestudy.club/case-studies/quill-app-case-study)
