@@ -92,6 +92,8 @@ Showcase your work:
 * [How to develop an effective multi-device UX strategy](https://xd.adobe.com/ideas/principles/web-design/ux-design-strategy-for-multiple-devices/)
 
 ## Case Studies/Portfolios
+
+* [Cool and hillarious case study](https://rafa.design/)
 * [Case study club](https://www.casestudy.club/case-studies/quill-app-case-study)
 * [Mosope_Adebowale's_Healthwise_CaseStudy](https://mosopeadebowale.com/wp-content/uploads/2019/09/Mosope_Adebowale_Healthwise_CaseStudy.pdf)
 * [Buhari Jemil's portfolio](http://buhari-jemilu.com/)
