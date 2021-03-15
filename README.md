@@ -77,6 +77,9 @@ Showcase your work:
 * [Dribbble](https://dribbble.com/)
 * [Behance](https://www.behance.net/)
 
+Templates:
+
+* [Sketch App Sources](https://www.sketchappsources.com/)
 
 ## Resources
 * [Alpha design resource 1](https://www.designresourc.es/)
