@@ -95,6 +95,7 @@ Templates:
 * [Treford Resource Pack 1](https://docs.google.com/document/d/1RLv5XBRUo42xLMkcQQAw51mWP7jcsyg4ivwNPbNwLdE/edit)
 * [How to create a mockup for your design on photoshop](https://www.loom.com/share/305be6c1da5c4d2b9a9737a751e0a4d5)
 * [How to develop an effective multi-device UX strategy](https://xd.adobe.com/ideas/principles/web-design/ux-design-strategy-for-multiple-devices/)
+* [Design for offline](https://design.google/library/offline-design/)
 
 ## Case Studies/Portfolios
 
