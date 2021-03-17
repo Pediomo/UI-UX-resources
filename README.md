@@ -96,6 +96,7 @@ Templates:
 * [How to create a mockup for your design on photoshop](https://www.loom.com/share/305be6c1da5c4d2b9a9737a751e0a4d5)
 * [How to develop an effective multi-device UX strategy](https://xd.adobe.com/ideas/principles/web-design/ux-design-strategy-for-multiple-devices/)
 * [Design for offline](https://design.google/library/offline-design/)
+* [UX for the Next Billion Users](https://design.google/library/ux-next-billion-users/)
 
 ## Case Studies/Portfolios
 
