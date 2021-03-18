@@ -112,6 +112,7 @@ Templates:
 * [UX Portfolio Case Study template (plus examples from successful hires)](https://uxplanet.org/ux-portfolio-case-study-template-plus-examples-from-successful-hires-86d5b0faa2d6)
 * [Case study: Designing an in-app messaging feature](https://medium.com/design-bootcamp/a-ux-case-study-on-carbon-an-in-app-messaging-feature-7b5c819982aa)
 * [Case study: Designing an Online Marketplace: Sellfast](https://medium.com/design-bootcamp/ui-ux-case-study-sellfast-2537fcb05872)
+* Entry level UX Portfolios mentioned in the Google UX Design Certification Course: [Lisa's portolio](http://www.lisasuefischer.com/), [Dane's portfolio](https://danegalbraith.com/), [Shabi's portfolio](https://www.shabnamkashani.com/), [Nichola's portfolio](https://www.nicolaspellegrino.com/), [Josh's portfolio](https://joshglucas.com/)
 
 
 * [Full Website Design 1](https://www.behance.net/gallery/95636783/Enclave-Online-Dating-App)
