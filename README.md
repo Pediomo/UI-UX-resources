@@ -80,6 +80,7 @@ Showcase your work:
 Templates:
 
 * [Sketch App Sources](https://www.sketchappsources.com/)
+* [Design Sprint Template](https://docs.google.com/document/d/1WYvwHVjc-9JZTm-0_CK3rmUG--F4bNRC6K-rbSn7094/edit)
 
 ## Resources
 * [Alpha design resource 1](https://www.designresourc.es/)
