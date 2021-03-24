@@ -99,7 +99,11 @@ Templates:
 * [Design for offline](https://design.google/library/offline-design/)
 * [UX for the Next Billion Users](https://design.google/library/ux-next-billion-users/)
 
-## Case Studies/Portfolios
+Designing for Accesibility
+* [Google guidelines](https://material.io/design/usability/accessibility.html#understanding-accessibility)
+* [Understanding the need for accessibility](https://www.youtube.com/watch?v=eFkhFxJZvho), [How the blind use technology to see the world](https://www.youtube.com/watch?v=0EQOZRIA-nA)
+
+## Case Studies/Portfolios)
 
 * [Cool and hillarious case study](https://rafa.design/)
 * [Case study club](https://www.casestudy.club/case-studies/quill-app-case-study)
