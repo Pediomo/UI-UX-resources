@@ -98,6 +98,7 @@ Templates:
 * [How to develop an effective multi-device UX strategy](https://xd.adobe.com/ideas/principles/web-design/ux-design-strategy-for-multiple-devices/)
 * [Design for offline](https://design.google/library/offline-design/)
 * [UX for the Next Billion Users](https://design.google/library/ux-next-billion-users/)
+* [A Product Designer's Guide to Competitive Analysis](https://www.toptal.com/product-managers/freelance/product-designer-guide-to-competitive-analysis)
 
 Designing for Accesibility
 * [Google guidelines](https://material.io/design/usability/accessibility.html#understanding-accessibility)
