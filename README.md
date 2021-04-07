@@ -58,6 +58,10 @@ Illustrations:
 * [Ouch!](https://icons8.com/illustrations)
 * [In fact, this is a longer list for illustrations](https://www.producthunt.com/search?q=illustrations)
 
+Paper Wireframes
+* [Mobile phone outlines for wireframes and prototypes](https://drive.google.com/file/d/1ot_E9DJ9EYkhvtkxp90mRv_4c9hK1G93/view)
+* 
+
 Blob Maker:
 * [Blob Maker](https://www.blobmaker.app/)
 
@@ -101,6 +105,7 @@ Templates:
 * [Design for offline](https://design.google/library/offline-design/)
 * [UX for the Next Billion Users](https://design.google/library/ux-next-billion-users/)
 * [A Product Designer's Guide to Competitive Analysis](https://www.toptal.com/product-managers/freelance/product-designer-guide-to-competitive-analysis)
+* [UX Challenges: links to courses and exercises](https://uxtools.co/challenges)
 
 Designing for Accesibility
 * [Google guidelines](https://material.io/design/usability/accessibility.html#understanding-accessibility)
@@ -140,6 +145,7 @@ Designing for Accesibility
 * [100 days of UI](https://www.dailyui.co/) — (You can also generate tasks from: [Sharpen](https://sharpen.design/))
 * [UI/UX Female Bootcamp](http://howican.tech/)
 * [UX/ Product Design Internship Opportunities](https://interns.design/)
+* [Google UX Design Certification Course](https://grow.google/uxdesign/#?modal_active=none)
 
 ## UI UX blogs to Follow
 * [Career Foundry](https://careerfoundry.com/en/blog/ux-design/)
