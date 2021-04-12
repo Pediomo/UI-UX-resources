@@ -60,7 +60,12 @@ Illustrations:
 
 Paper Wireframes
 * [Mobile phone outlines for wireframes and prototypes](https://drive.google.com/file/d/1ot_E9DJ9EYkhvtkxp90mRv_4c9hK1G93/view)
-* 
+
+Affinity Diagrams
+* [Jamboard.Google](https://jamboard.google.com/)
+* [Notely](http://note.ly/#)
+* [Miro](https://miro.com/) - Paid tool
+* [Padlet](https://padlet.com/)
 
 Blob Maker:
 * [Blob Maker](https://www.blobmaker.app/)
