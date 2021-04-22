@@ -68,6 +68,12 @@ Design Systems
 * [AirBnb' Design System](https://airbnb.design/building-a-visual-language/)
 * [The US Web Design System](https://designsystem.digital.gov/)
 
+UI Kits
+* [Shopify's UI kit](https://www.figma.com/@shopify)
+* [Microsoft's UI kit](https://www.figma.com/@microsoft)
+* [Atlassian's UI kit](https://www.figma.com/@atlassian)
+* [Uber's UI kit](https://www.figma.com/@uber)
+
 
 Affinity Diagrams
 * [Jamboard.Google](https://jamboard.google.com/)
