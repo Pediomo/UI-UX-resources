@@ -130,6 +130,11 @@ Designing for Accesibility
 * [Google guidelines](https://material.io/design/usability/accessibility.html#understanding-accessibility)
 * [Understanding the need for accessibility](https://www.youtube.com/watch?v=eFkhFxJZvho), [How the blind use technology to see the world](https://www.youtube.com/watch?v=0EQOZRIA-nA)
 
+Design critique guide
+* [Mastering Design Critiques](https://uxdesign.cc/design-critique-design-better-products-through-team-collaboration-4c4f26a7be5f)
+* [Design Critique: Where do we start?](https://uxplanet.org/design-critique-where-do-we-start-c8c5cbffb069)
+* 
+
 ## Case Studies/Portfolios)
 
 * [Cool and hillarious case study](https://rafa.design/)
