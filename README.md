@@ -146,6 +146,7 @@ Designing for Accesibility
 * Entry level UX Portfolios mentioned in the Google UX Design Certification Course: [Lisa's portolio](http://www.lisasuefischer.com/), [Dane's portfolio](https://danegalbraith.com/), [Shabi's portfolio](https://www.shabnamkashani.com/), [Nichola's portfolio](https://www.nicolaspellegrino.com/), [Josh's portfolio](https://joshglucas.com/)
 * [TongFanf Sun' Case study](https://www.tongfangsun.xyz/)
 * [Andrew Sibert's case study](http://andrewsibert.com/portfolio_halo.html)
+* [Saschais' Portfolio](https://saschas.ai/)
 
 
 * [Full Website Design 1](https://www.behance.net/gallery/95636783/Enclave-Online-Dating-App)
