@@ -126,6 +126,8 @@ Templates:
 * [A Product Designer's Guide to Competitive Analysis](https://www.toptal.com/product-managers/freelance/product-designer-guide-to-competitive-analysis)
 * [UX Challenges: links to courses and exercises](https://uxtools.co/challenges)
 * [Sound Style Guide](https://www.toptal.com/designers/ux/ux-sounds-guide)
+* [How to write a UX case study](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/)
+* [UX Case study Template](https://xd.adobe.com/ideas/perspectives/leadership-insights/ux-case-study-template/)
 
 Designing for Accesibility
 * [Google guidelines](https://material.io/design/usability/accessibility.html#understanding-accessibility)
@@ -134,8 +136,8 @@ Designing for Accesibility
 Design critique guide
 * [Mastering Design Critiques](https://uxdesign.cc/design-critique-design-better-products-through-team-collaboration-4c4f26a7be5f)
 * [Design Critique: Where do we start?](https://uxplanet.org/design-critique-where-do-we-start-c8c5cbffb069)
-* 
-S
+
+
 ## Case Studies/Portfolios)
 
 * [Cool and hillarious case study](https://rafa.design/)
