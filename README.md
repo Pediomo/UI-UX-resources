@@ -128,6 +128,8 @@ Templates:
 * [Sound Style Guide](https://www.toptal.com/designers/ux/ux-sounds-guide)
 * [How to write a UX case study](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/)
 * [UX Case study Template](https://xd.adobe.com/ideas/perspectives/leadership-insights/ux-case-study-template/)
+* [How to build a portfolio on Notion: Video](https://www.youtube.com/watch?v=S-tBuTQ7Ks0)[Article](https://uxplanet.org/building-your-portfolio-in-notion-part-1-2222f31210eb)
+* [Design Handoff](https://www.abstract.com/blog/developer-handoff-for-designers)
 
 Designing for Accesibility
 * [Google guidelines](https://material.io/design/usability/accessibility.html#understanding-accessibility)
@@ -155,6 +157,7 @@ Design critique guide
 * [TongFanf Sun' Case study](https://www.tongfangsun.xyz/)
 * [Andrew Sibert's case study](http://andrewsibert.com/portfolio_halo.html)
 * [Saschais' Portfolio](https://saschas.ai/)
+* [Rama (Portfolio on notion)](https://www.notion.so/Hey-I-m-Rama-Krushna-53ebad1b8bb04bd491108cac9c293be9)
 
 
 * [Full Website Design 1](https://www.behance.net/gallery/95636783/Enclave-Online-Dating-App)
