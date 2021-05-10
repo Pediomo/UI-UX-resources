@@ -58,8 +58,9 @@ Illustrations:
 * [Ouch!](https://icons8.com/illustrations)
 * [In fact, this is a longer list for illustrations](https://www.producthunt.com/search?q=illustrations)
 
-Paper Wireframes
-* [Mobile phone outlines for wireframes and prototypes](https://drive.google.com/file/d/1ot_E9DJ9EYkhvtkxp90mRv_4c9hK1G93/view)
+Wireframes
+* [Printable mobile phone outlines for wireframes and prototypes](https://drive.google.com/file/d/1ot_E9DJ9EYkhvtkxp90mRv_4c9hK1G93/view)
+* [Printable grid paper template](https://www.vertex42.com/WordTemplates/printable-graph-paper.html)
 
 Design Systems
 * [Google's Material Design](https://material.io/resources)
