@@ -62,9 +62,9 @@ Paper Wireframes
 * [Mobile phone outlines for wireframes and prototypes](https://drive.google.com/file/d/1ot_E9DJ9EYkhvtkxp90mRv_4c9hK1G93/view)
 
 Design Systems
-* [Google's MAterial Design](https://material.io/resources)
+* [Google's Material Design](https://material.io/resources)
 * [Shopify's Design System Polaris](https://polaris.shopify.com/)
-* [Microsoft's Fluent Design System](https://www.microsoft.com/design/fluent/#/)
+* [Microsoft's Fluent Design System](https://www.microsoft.com/design/fluent/#/), [Microsoft: documentation (design)](https://docs.microsoft.com/en-us/windows/uwp/design/)
 * [AirBnb' Design System](https://airbnb.design/building-a-visual-language/)
 * [The US Web Design System](https://designsystem.digital.gov/)
 
