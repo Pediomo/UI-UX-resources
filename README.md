@@ -108,9 +108,9 @@ Templates:
 * [Design Sprint Template](https://docs.google.com/document/d/1WYvwHVjc-9JZTm-0_CK3rmUG--F4bNRC6K-rbSn7094/edit)
 
 ## Resources
-* [Alpha design resource 1](https://www.designresourc.es/)
-* [Alpha design resource 2](https://medium.com/@calderaricaio/growing-list-of-design-resources-67c72a5d4f56)
-* [Alpha design resource 3](https://www.notion.so/Design-Resources-0e19f815785245ac9cf6a50355f2cb10)
+* [Core design resource 1](https://www.designresourc.es/)
+* [Core design resource 2](https://medium.com/@calderaricaio/growing-list-of-design-resources-67c72a5d4f56)
+* [Core design resource 3](https://www.notion.so/Design-Resources-0e19f815785245ac9cf6a50355f2cb10)
 * [Material.io](http://material.io/)
 * [Shopify Design Resource](https://polaris.shopify.com/content/actionable-language#navigation)
 * [Design System Checklist](https://designsystemchecklist.com/)
@@ -131,6 +131,7 @@ Templates:
 * [UX Case study Template](https://xd.adobe.com/ideas/perspectives/leadership-insights/ux-case-study-template/)
 * [How to build a portfolio on Notion: Video](https://www.youtube.com/watch?v=S-tBuTQ7Ks0)[Article](https://uxplanet.org/building-your-portfolio-in-notion-part-1-2222f31210eb)
 * [Design Handoff](https://www.abstract.com/blog/developer-handoff-for-designers)
+* [How to collaborate on Adobe XD](https://www.adobe.com/products/xd/learn/collaborate/stakeholder-review/working-with-teams.html)
 
 Designing for Accesibility
 * [Google guidelines](https://material.io/design/usability/accessibility.html#understanding-accessibility)
