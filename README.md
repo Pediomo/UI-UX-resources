@@ -132,6 +132,7 @@ Templates:
 * [How to build a portfolio on Notion: Video](https://www.youtube.com/watch?v=S-tBuTQ7Ks0)[Article](https://uxplanet.org/building-your-portfolio-in-notion-part-1-2222f31210eb)
 * [Design Handoff](https://www.abstract.com/blog/developer-handoff-for-designers)
 * [How to collaborate on Adobe XD](https://www.adobe.com/products/xd/learn/collaborate/stakeholder-review/working-with-teams.html)
+* [A beginner's guide to Information Architecture](https://xd.adobe.com/ideas/process/information-architecture/introductory-guide-to-information-architecture/)
 
 Designing for Accesibility
 * [Google guidelines](https://material.io/design/usability/accessibility.html#understanding-accessibility)
