@@ -34,6 +34,7 @@
 * [Clicked](https://beta.clicked.com/create-clicked-account/?ref=322) (An invite only community)
 * [UX Her](https://www.uxher.com/)
 * [UX/UI Design Projects](https://www.facebook.com/groups/uxuidesignprojects)
+* [List of UX Communities, mostly Slack](https://www.designerslack.community/type/ux)
 
 
 ## Design tools
