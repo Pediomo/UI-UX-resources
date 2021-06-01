@@ -24,6 +24,7 @@
 - [UI UX schools](#ui-ux-schools)
 - [Product designers and UI UX designers to follow](#product-designers-and-ui-ux-designers-to-follow)
 - [Podcasts](#podcasts)
+- [Unrelated design](#unrelated-design)
 
 ## Community
 * [Jupiter Design Community](https://chat.whatsapp.com/Ku4SUjSmc4zIAg5XzffEcs)
@@ -145,7 +146,7 @@ Design critique guide
 * [Design Critique: Where do we start?](https://uxplanet.org/design-critique-where-do-we-start-c8c5cbffb069)
 
 
-## Case Studies/Portfolios)
+## Case Studies and Portfolios
 
 * [Cool and hillarious case study](https://rafa.design/)
 * [Case study club](https://www.casestudy.club/case-studies/quill-app-case-study)
