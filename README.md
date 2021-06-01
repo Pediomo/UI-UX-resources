@@ -4,7 +4,6 @@
 
 > The “UI” in UI design stands for “user interface.” The user interface is the graphical layout of an application, while the “UX” stands for “user experience.” A user’s experience of the app is determined by how they interact with it. ~ [UX Planet](https://uxplanet.org/what-is-ui-vs-ux-design-and-the-difference-d9113f6612de)
 
-*List inspired by [Buhari Jemilu's](https://www.linkedin.com/in/jemilu-buhari/) Jupiter Design Community.
 
 ## Table of Contents
 - [Community](#community)
@@ -185,7 +184,7 @@ Design critique guide
 * [100 days of UI](https://www.dailyui.co/) — (You can also generate tasks from: [Sharpen](https://sharpen.design/))
 * [UI/UX Female Bootcamp](http://howican.tech/)
 * [UX/ Product Design Internship Opportunities](https://interns.design/)
-* [Google UX Design Certification Course](https://grow.google/uxdesign/#?modal_active=none)
+
 
 ## UI UX blogs to Follow
 * [Career Foundry](https://careerfoundry.com/en/blog/ux-design/)
@@ -205,6 +204,13 @@ Design critique guide
 ## Videos
 * [Bulding Amazing Things](https://www.youtube.com/channel/UCbVPTU8fv7e0EjGeQFbIsJA) (Youtube Channel)
 * [The Futur](https://www.youtube.com/user/TheSkoolRocks) (Youtube Channel)
+
+## Courses
+* [Google UX Design Certification Course](https://grow.google/uxdesign/#?modal_active=none)
+
+
+## Unrelated design
+* [Graphics design resource](https://mega.nz/folder/tkxC2IbS#tuCovFzaVY8rAVYBU3VR4g)
 
 
 ## Product designers and UI UX designers to follow
