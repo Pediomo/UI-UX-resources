@@ -135,6 +135,7 @@ Templates:
 * [How to collaborate on Adobe XD](https://www.adobe.com/products/xd/learn/collaborate/stakeholder-review/working-with-teams.html)
 * [A beginner's guide to Information Architecture](https://xd.adobe.com/ideas/process/information-architecture/introductory-guide-to-information-architecture/)
 * [A tale of UX auditing and designing](https://blog.prototypr.io/trip-tribe-a-tale-of-ux-auditing-and-designing-through-gifs-4a878d405765)
+* [Patterns](http://www.heropatterns.com/)
 
 Designing for Accesibility
 * [Google guidelines](https://material.io/design/usability/accessibility.html#understanding-accessibility)
