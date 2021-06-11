@@ -164,6 +164,8 @@ Design critique guide
 * [Andrew Sibert's case study](http://andrewsibert.com/portfolio_halo.html)
 * [Saschais' Portfolio](https://saschas.ai/)
 * [Rama (Portfolio on notion)](https://www.notion.so/Hey-I-m-Rama-Krushna-53ebad1b8bb04bd491108cac9c293be9)
+* Like to check out the UX portfolios of interns at FAANG companies? Click this link: [Cofolios](https://cofolios.com/)
+* [Bestfolios](https://www.bestfolios.com/casestudy)
 
 
 * [Full Website Design 1](https://www.behance.net/gallery/95636783/Enclave-Online-Dating-App)
@@ -219,7 +221,7 @@ Design critique guide
 |-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Chris Do   |https://thefutur.com/team/chris-do               | CEO, TheFutur | [@theChrisDo](https://twitter.com/theChrisDo)     |
 | Namnso Ukpanah    | https://www.linkedin.com/in/namnsoukpanah/        | Figma Africa (Community lead) | [@namnsoukpanah](https://twitter.com/namnsoukpanah)     |
-| Buhari Jemilu   |http://buhari-jemilu.com/                | Jupita Design Community (lead) | [@buhari_x](https://twitter.com/buhari_x)    |
+
 
 
 ## Contributing
