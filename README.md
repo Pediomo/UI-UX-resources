@@ -172,6 +172,7 @@ Design critique guide
 
 * BONUS >>> [GET MENTORSHIP](https://adplist.org/mentors)
 * [Case study template](https://uxdesign.cc/case-study-template-8832941a9d1b?source=bookmarks---------5----------------------------)
+* Don't know what problem to solve for your UX case study? Check here: [Design challenges](https://www.notion.so/Design-Challenges-cb988fb821fc403ebaad9c5b9b7f3077)
 
 
 
